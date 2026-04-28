@@ -1,65 +1,64 @@
-# Albion Online Plugin for Claude Code
+# Albion Online Agent Skills
 
-A complete Albion Online assistant plugin for Claude Code with 6 specialized skills covering every major aspect of the game. Updated for the **Abyssal Depths patch series (2025)**.
+A portable Albion Online skill pack with 6 specialized Agent Skills covering the major parts of the game. The skills use the open `SKILL.md` folder format, so they can be installed in skills-compatible tools such as Claude, ChatGPT, and Codex.
+
+Updated for the **Radiant Wilds update (April 2026)**.
 
 ## Install
 
-```bash
-/plugin install https://github.com/Czxck001/albion-online-skills-plugin
-```
+See [INSTALL.md](INSTALL.md) for setup instructions for Claude Chat/Desktop, Claude Cowork, Claude Code, ChatGPT, and Codex.
 
 ## Skills Included
 
-| Skill | Invocation | What it does |
-|-------|-----------|-------------|
-| **Destiny Board Advisor** | `/albion-online:destiny-board-advisor` | Gear builds, weapon meta, Destiny Board progression paths |
-| **Market Intelligence** | `/albion-online:market-intelligence` | Live prices via Albion Data Project API, arbitrage, silver/hr |
-| **Crafting Calculator** | `/albion-online:crafting-calculator` | Crafting profitability, refining math, return rates, journal bonuses |
-| **Content Planner** | `/albion-online:content-planner` | Activity guide: dungeons, The Depths, Hellgates, gathering, Mists |
-| **Guild & Alliance Tools** | `/albion-online:guild-alliance-tools` | ZvZ/GvG strategy, 2v2 Hellgate comps, territory management, guild comms |
-| **Lore & Onboarding** | `/albion-online:lore-onboarding` | New player guide, game systems, 2025 Orange PvP and The Depths explained |
+| Skill | Direct invocation | What it does |
+|-------|-------------------|-------------|
+| **Destiny Board Advisor** | `destiny-board-advisor` | Gear builds, weapon meta, Destiny Board progression paths |
+| **Market Intelligence** | `market-intelligence` | Live prices via Albion Data Project API, arbitrage, silver/hr |
+| **Crafting Calculator** | `crafting-calculator` | Crafting profitability, refining math, return rates, journal bonuses |
+| **Content Planner** | `content-activity-planner` | Activity guide: dungeons, The Depths, Hellgates, gathering, Mists |
+| **Guild & Alliance Tools** | `guild-alliance-tools` | ZvZ/GvG strategy, 2v2 Hellgate comps, territory management, guild comms |
+| **Lore & Onboarding** | `lore-onboarding` | New player guide, game systems, Orange PvP, The Depths, and 1v1 Arena explained |
 
-Skills are also **auto-invoked** — Claude will load the relevant skill automatically when you ask Albion-related questions without needing to type the slash command.
+When installed as a Claude plugin named `albion-online`, invoke skills with `/albion-online:skill-name`. When installed as Codex skills, invoke them from the skill picker with `$skill-name`. Skills may also be invoked automatically when your prompt matches their descriptions.
 
 ## Usage Examples
 
-```
+```text
 What's a good solo PvP build for corrupted dungeons?
-→ auto-invokes destiny-board-advisor
+-> uses destiny-board-advisor
 
 Where should I sell my T6 hide right now?
-→ auto-invokes market-intelligence (fetches live prices)
+-> uses market-intelligence and fetches live prices
 
 Is it profitable to craft Bloodletters in Caerleon?
-→ auto-invokes crafting-calculator
+-> uses crafting-calculator
 
 What should I be doing at T6 gear?
-→ auto-invokes content-activity-planner
+-> uses content-activity-planner
 
 What's a good 2v2 Hellgate comp?
-→ auto-invokes guild-alliance-tools
+-> uses guild-alliance-tools
 
 I just started playing, what do I do?
-→ auto-invokes lore-onboarding
+-> uses lore-onboarding
 ```
 
-## What's Covered (Abyssal Depths 2025)
+## What's Covered
 
-- ✅ Current weapon meta (Abyssal Depths Patch 5/6)
-- ✅ The Depths — new Orange PvP dungeon (June 2025)
-- ✅ 2v2 / 5v5 / 10v10 Hellgates with IP caps, lava mechanic, build breakdowns
-- ✅ Recent balance changes (Polehammer buff, Mistwalker nerf, Lifetouch rework, etc.)
-- ✅ Live market data via [Albion Online Data Project API](https://www.albion-online-data.com/)
-- ✅ Reworked new player experience (Adventurer / Duelist / Gatherer paths)
-- ✅ Learning Points daily delivery change
-- ✅ Brecilien city bonus (Nature/Arcane Staffs)
+- Current weapon meta for the Radiant Wilds update
+- The Depths and Orange PvP
+- 1v1 Arena and the Antiquarian's Den
+- 2v2 / 5v5 / 10v10 Hellgates with IP caps, lava mechanic, and build breakdowns
+- Live market data via [Albion Online Data Project API](https://www.albion-online-data.com/)
+- Reworked new player experience
+- Learning Points, Premium, island, zone, and progression systems
+- Guild, alliance, ZvZ, GvG, and territory planning workflows
 
-## Plugin Structure
+## Skill Structure
 
-```
-albion-online/
-├── .claude-plugin/
-│   └── plugin.json
+```text
+albion-online-skills-plugin/
+├── README.md
 └── skills/
     ├── destiny-board-advisor/SKILL.md
     ├── market-intelligence/SKILL.md
@@ -69,9 +68,19 @@ albion-online/
     └── lore-onboarding/SKILL.md
 ```
 
+## References
+
+- [Agent Skills open standard](https://agentskills.io/)
+- [Claude custom skills](https://claude.com/docs/skills/how-to)
+- [Claude Code plugins](https://code.claude.com/docs/en/plugins)
+- [Claude Cowork plugins](https://support.claude.com/en/articles/13837440-use-plugins-in-cowork)
+- [ChatGPT skills](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
+- [Codex Agent Skills](https://developers.openai.com/codex/skills)
+- [Codex plugins](https://developers.openai.com/codex/plugins)
+
 ## Contributing
 
-PRs welcome! If a patch drops and meta shifts, open an issue or submit a PR updating the relevant `SKILL.md`.
+PRs welcome. If a patch drops and meta shifts, open an issue or submit a PR updating the relevant `SKILL.md`.
 
 ## License
 
