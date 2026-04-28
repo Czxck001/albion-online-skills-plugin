@@ -26,6 +26,10 @@ Everything in Albion is player-crafted. This means:
 - Supply and demand are entirely player-driven
 - Crafting profitability shifts with the meta (e.g., a buffed weapon → more demand)
 - Monitor patch notes to anticipate demand spikes
+- **Radiant Wilds (April 2026) notable demand shifts**: Wild Onslaught (Primal Staff)
+  massively buffed — expect increased demand for Shapeshifter Staffs. Counter (War Gloves)
+  reflect buffed to 150% — War Gloves demand likely rising. Carving Sword nerfed —
+  demand may soften. Check the **Armory** in-game to see what's being played in the meta.
 
 ### Tier & Resource Overview
 
@@ -214,5 +218,6 @@ Market Sell Price ([City]):          [price] silver
 - **Enchanted resources** are worth far more per tier — check T6.1/T6.2/T6.3 vs. base T6
 - Journals are passive income — never craft without filling them
 - Watch recent patch notes: buffed weapons = increased demand = higher crafting margins
+  (Radiant Wilds: Primal Staff, War Gloves up; Carving Sword, Flamewalker Staff, Skystrider Bow down)
 - Focus regenerates daily at 10k (premium) — spend it on your most expensive items first
 - High-spec crafters in city bonus zones are typically the most profitable crafters in the game

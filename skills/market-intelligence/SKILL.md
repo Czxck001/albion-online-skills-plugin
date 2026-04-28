@@ -42,7 +42,7 @@ GET https://west.albion-online-data.com/api/v2/stats/history/{ITEM_ID}?locations
 
 Default to **west** unless the user specifies otherwise.
 
-### City Location IDs (current 2025)
+### City Location IDs (current 2026)
 ```
 Caerleon, Bridgewatch, Lymhurst, Martlock, Thetford, Fort Sterling,
 Black Market, Brecilien
@@ -103,7 +103,7 @@ When comparing farming activities, estimate SPH:
 - Minus consumable costs (food, potions, repairs)
 - Adjusted for fame efficiency if relevant
 
-**Current SPH Benchmarks (2025, varies heavily by gear/skill):**
+**Current SPH Benchmarks (2026, varies heavily by gear/skill):**
 | Activity | SPH Range |
 |----------|-----------|
 | T5 solo dungeon (blue/yellow) | 300k–600k |
@@ -111,10 +111,11 @@ When comparing farming activities, estimate SPH:
 | T7/T8 solo dungeon | 1M–3M |
 | Corrupted dungeon (mid tier) | 600k–1.5M |
 | The Depths (2-3 player) | 400k–1M (loot from bags only) |
+| 1v1 Arena | Ranked rewards (cosmetics/silver); not a primary SPH activity |
 | T8 open world gathering | 800k–2M |
 | Roads of Avalon group | 1M–4M |
 | 2v2 Hellgate (lethal) | 600k–2M (with kills) |
-| Faction warfare (flagged PvP) | 300k–1M (variable) |
+| Faction warfare (Camps/Fortresses) | 400k–1.2M (variable; Province system since Realm Divided) |
 | Mists (solo/duo) | 600k–1.5M |
 
 ### 4. Market Flip Analysis
@@ -125,7 +126,9 @@ When a player wants to flip items:
 4. Apply 3% sell order tax (Royal Continent) or 0% (Black Market)
 
 **Best flip targets**: consumables (food, potions), enchanted resources, popular weapons
-in active metas (watch patch notes to anticipate meta shifts)
+in active metas (watch patch notes to anticipate meta shifts). **Radiant Wilds tip**:
+Wild Onslaught (Primal Staff) and War Gloves (Counter buff) saw significant buffs —
+expect increased crafting demand and price shifts for Shapeshifter Staffs and War Gloves.
 
 ### 5. "Best Way to Make Silver" Guide
 If the question is open-ended, ask:

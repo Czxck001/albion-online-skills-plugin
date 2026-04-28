@@ -10,15 +10,15 @@ description: >
   "what's a good GvG comp?", "help me plan 2v2 Hellgates with my guild",
   "what's a good 10v10 Hellgate strategy?", "how should we manage our territory?",
   "help me write a recruitment post", "what does this patch change for our guild?",
-  or any organized group/guild topic in Albion Online. Up-to-date for the Abyssal
-  Depths patch series (2025).
+  or any organized group/guild topic in Albion Online. Up-to-date for the Radiant
+  Wilds update (April 2026).
 ---
 
 # Guild & Alliance Tools
 
 You are an expert Albion Online guild strategist and manager. Help guild leaders,
 officers, and members with strategy, communication, logistics, and organization.
-All meta information is current for the **Abyssal Depths patch series (2025)**.
+All meta information is current for the **Radiant Wilds update (April 13, 2026)**.
 
 ## Capabilities
 
@@ -39,7 +39,7 @@ All meta information is current for the **Abyssal Depths patch series (2025)**.
 Large-scale open-world PvP between guilds/alliances. Typically 20–200+ players per side.
 Victory depends on composition, discipline, positioning, and shot-caller skill.
 
-### Current ZvZ Meta Healers (Abyssal Depths Patch 5, per Metabattle)
+### Current ZvZ Meta Healers (Radiant Wilds, April 2026)
 The three dominant ZvZ healer builds:
 - **Blight Staff** — strong sustain HoT profile
 - **Fallen Staff** — displacement + healing, excellent peel
@@ -55,15 +55,17 @@ All three use similar healer armor:
 
 #### Frontline (Tank)
 - **Role**: Absorb damage, land CC, create space for DPS burst
-- **Weapons**: Polehammer (Groundbreaker range 20m after Patch 6 buff — can now stun
-  through territory walls), Bedrock Mace, Oathkeepers, Soulscythe
+- **Weapons**: Polehammer (Groundbreaker range 20m — stuns through territory walls;
+  note: flat damage nerfed 77.7→46 in Radiant Wilds, valued for CC/range over burst),
+  Bedrock Mace (Guard Rune now hits 10 players, Deep Leap 180→203), Oathkeepers, Soulscythe
 - **Armor**: Full Plate (Royal Armor / Knight Armor for CC immunity W-slot)
 - **Key ability**: Stalwart while casting, Juggernaut for unstoppable engage
 
 #### DPS Layer
 - **Role**: Nuke priority targets called by shot-caller immediately after tank CC lands
 - **Weapons**: Brimstone Staff, Permafrost Prism, Boltcasters/Weeping Repeater,
-  Glaive (Halberd now adds CC resistance reduction — useful utility DPS in Patch 3)
+  Glaive, Halberd (CC resistance reduction + Battle Rush cooldown 20s→18s — efficient utility DPS);
+  Primal Staff Wild Onslaught buffed 50→85 damage — viable roaming DPS option now
 - **Armor**: Cloth or Leather depending on weapon
 - **Key**: AoE burst windows — coordinate with healer team
 
@@ -72,13 +74,15 @@ All three use similar healer armor:
 - **Weapons**: Fallen Staff (peel), Blight Staff (sustain), Rampant Staff (energy)
   and Hallowfall (must-have in any comp)
 - **Ratio**: 1 healer per 5–7 players minimum
-- **Note**: Lifetouch Staff reworked in Patch 2 — lower burst heal but now grants
-  +15% damage buff to target. Situationally powerful.
+- **Note**: Lifetouch Staff — lower burst heal but +15% damage buff to target.
+  Holy Orb stand time 0.4s→0.25s (Radiant Wilds) — all Holy Staff Q spells now faster.
+  Hush (Demon Helmet) cooldown 30s→25s — more reliable silence uptime in ZvZ.
 
 #### Utility / Bombers
 - **Role**: Disrupt enemy burst, provide vision, zone control
-- **Examples**: Ethereal Form bombers (invincibility nerfed 4.5s→4s in Patch 3 — punish
-  within the 2s vulnerability window), Frost column, Nature debuffers
+- **Examples**: Ethereal Form bombers (invincibility 4s — punish within 2s vulnerability
+  window), Frost column, Nature debuffers; War Gloves Counter now reflects 150% (up from
+  100%) — strong against telegraphed burst in ZvZ
 
 ### ZvZ Caller Guidelines
 - Call targets by guild/color — not player name
@@ -159,7 +163,7 @@ When a second team enters your Hellgate:
 4. Players in lava long enough gain **CC immunity** (prevents stun-lock wipes)
 5. Lava pauses once it has enclosed a final central area — final fight zone
 
-### Meta Compositions (2025)
+### Meta Compositions (Radiant Wilds, 2026)
 
 **The standard: DPS + Healer** (most effective and consistent)
 
@@ -171,7 +175,7 @@ When a second team enters your Hellgate:
 | **Claymore** (Dual Swords) | Medium difficulty. Feyscale Robe burst. | Stack Q to 3, use Cultist Sandals, execute combo. With Purity Robe: stack on DPS first, then kidnap enemy healer. Ask your healer for Blessing before combo. |
 | **Hellspawn** (Cursed) | Sustained DoT + tankiness. | Against Beam healers: use W2, focus healer. Hunter Jacket gives high defense vs. burst. Swap to Inferno Shield vs. one-shots or double DPS. |
 | **Demonic** (Cursed Staff) | DoT separation comp. High mobility. | Focus double-stacking healer + DPS. Use W situationally with Cultist Sandals. E for burst and separating enemy pair. Use root W + sprint Sandals + Frost Shield vs. one-shot comps. Mage Robe = cheaper defensive alternative. |
-| **Deathgivers** | Extremely mobile high-burst solo weapon. | Strong but facing ongoing nerfs; check current patch status before building. |
+| **Deathgivers** | Extremely mobile high-burst solo weapon. | Nerfed in Abyssal Depths Patch 6; still competitive but less dominant — verify current patch status. |
 
 #### Healer Role Guide (2v2)
 
@@ -345,10 +349,31 @@ When a player shares patch notes or asks about a recent patch:
 3. Flag: buffs (opportunity), nerfs (adapt), neutral (monitor)
 4. End with **concrete action items** — not just analysis
 
-**Recent notable changes (Abyssal Depths series)**:
-- Polehammer Groundbreaker range: 16m → 20m (Patch 6) — consider adding to ZvZ frontline
-- Mistwalker Shoes dash: 11m → 10m (Patch 3) — affects ZvZ bombers relying on it
-- Ethereal Form invincibility: 4.5s → 4s (Patch 3) — bombers more punishable
-- Lifetouch Staff: lower burst heal, added +15% ally damage buff (Patch 2)
-- Halberd: now reduces enemy CC resistance (Patch 3) — potential utility DPS pick
-- Heavy Crossbow Sweeping Bolt: damage buffed (Patch 3) — potential ZvZ DPS option
+**Recent notable changes (Realm Divided + Radiant Wilds)**:
+
+*Radiant Wilds (April 13, 2026 — current patch):*
+- Polehammer Groundbreaker: damage nerfed 77.7→46 — still top frontline for 20m range/CC, rebalance burst expectations
+- Wild Onslaught (Primal Staff): damage buffed 50→85 — now viable roaming DPS
+- Carving Sword Fearless Strike: cooldown 20s→25s — lower mobility in solo content
+- Counter (all War Gloves): reflect 100%→150% — stronger into telegraphed ZvZ burst
+- Mace Guard Rune: players affected 5→10, resistance value adjusted — mace frontline better in blobs
+- Holy Orb (all Holy Staffs): stand time 0.4s→0.25s — faster healing across all Holy builds
+- Hush (Demon Helmet): cooldown 30s→25s — more uptime in ZvZ
+- Dodge (all Shoes): movement speed buff duration 4s→5s — minor but affects ZvZ kiting
+- Infernal Staff Combustion: now AoEs a 4m fear around initial target — AoE disruption utility
+- Arctic Volley (Arctic Staff): cooldown 15s→12s — more uptime; damage per tick 90→76 (tradeoff)
+- Falcon Smash (Battle Bracers): multicast window 2s→3s — easier aerial aiming
+
+*Realm Divided (November 2025 – February 2026):*
+- All melee weapons: Resilience Penetration reduced by 10% (Battle Bracers −15%) — tanks/bruisers tankier
+- Arcane Staffs: Resilience Penetration reduced similarly
+- Faction Warfare: Province system introduced with Faction Camps (small-scale) and Fortresses (siege)
+- Enigmatic Staff: larger AoE, reduced self-slow — better large-scale utility
+- Battle Howl (Maces): now reduces mob auto-attack damage (40% debuff for 4s) — PvE group synergy
+- Mistwalker Jacket: cooldown 45s→50s — slightly less frequent escapes
+
+*Abyssal Depths series (reference):*
+- Polehammer Groundbreaker range: 16m→20m (Patch 6)
+- Ethereal Form invincibility: 4.5s→4s (Patch 3)
+- Lifetouch Staff: lower burst heal, +15% ally damage buff (Patch 2)
+- Halberd: CC resistance reduction (Patch 3)

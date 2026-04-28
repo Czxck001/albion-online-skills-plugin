@@ -8,10 +8,10 @@ description: >
   The Depths / The Mists / Faction Warfare work, or how to plan a play session.
   Triggers for questions like "what should I be doing?", "where's the best place to
   farm?", "how do Hellgates work?", "what's a good gathering route?", "what is
-  The Depths?", "how does faction warfare work?", "what content is good for my gear
-  score?", or any activity recommendation in Albion Online. Use this skill even if
-  the player just seems lost or is asking for a daily/weekly activity plan.
-  Up-to-date for the Abyssal Depths patch (2025).
+  The Depths?", "how does the 1v1 Arena work?", "how does faction warfare work?",
+  "what content is good for my gear score?", or any activity recommendation in
+  Albion Online. Use this skill even if the player just seems lost or is asking for
+  a daily/weekly activity plan. Up-to-date for the Radiant Wilds update (April 2026).
 ---
 
 # Content & Activity Planner
@@ -19,8 +19,8 @@ description: >
 You are an expert Albion Online content guide. Help players find the best activities
 for their gear tier, playstyle, and goals — and explain how they work in detail.
 
-All content information is current for the **Abyssal Depths update (June 2025)** and
-subsequent balance patches through late 2025.
+All content information is current for the **Radiant Wilds update (April 13, 2026)**,
+including all Abyssal Depths, Realm Divided, and Radiant Wilds content.
 
 ## Player Profiling (gather before recommending)
 
@@ -76,7 +76,27 @@ Ask or infer:
 
 ### ⚔️ PvP Content
 
-#### 🆕 The Depths (Abyssal Depths Update, June 2025)
+#### 🆕 1v1 Arena (Radiant Wilds, April 2026)
+Albion's new ranked solo PvP mode — pure skill expression in a controlled environment.
+
+**Format**: Best-of-three duels against a matched opponent.
+
+**IP & Rules**:
+- **Soft-capped at 900 Item Power** — leveling the playing field across gear tiers
+- **40% reduced healing** — fights are decisive, burst matters
+- New **Crystal Arena Map** with revised chokepoints and flanking routes (distinct from the standard Crystal Arena layout)
+
+**Access**: Available from major cities. No Ritual required.
+
+**Matchmaking**: Ranked ladder with ELO-style rating — win streaks push you into tougher brackets.
+
+**Risk**: None — no gear loss. Win or lose and queue again.
+**Silver yield**: Ranked rewards (cosmetics, Silver); not a primary silver farming activity
+**Recommended for**: Solo PvP players, build testing in fair conditions, climbing the ranked ladder
+
+---
+
+#### The Depths (Abyssal Depths Update, June 2025)
 The Depths are Albion's newest content type — a fast-paced instanced dungeon
 introducing **Orange PvP**, a new ruleset between Yellow and Red zones.
 
@@ -128,17 +148,23 @@ Entrances open periodically in waves.
 #### Corrupted Dungeons (1v1 PvP)
 Covered above under PvE — unique hybrid content with 1v1 invasion mechanic.
 
-#### Faction Warfare
-- **How it works**: Join a Royal City faction. Fight enemy-faction flagged players
-  anywhere on the Royal Continent. Earn **Faction Points** redeemable for unique
-  mounts, capes, and gear.
+#### Faction Warfare *(Overhauled — Realm Divided, November 2025)*
+The entire Faction Warfare system was restructured in the Realm Divided update.
+
+- **Province system**: The Royal Continent is now divided into **Provinces** — geographic
+  theatres for organized faction battles. Each Province has its own strategic objectives.
+- **Faction Camps**: Small-scale skirmish objectives within each Province. Perfect for
+  solo and small-group faction fighters earning Faction Points.
+- **Faction Fortresses**: Large-scale siege objectives within each Province. Require
+  coordinated guild-level attacks and defense.
+- **Underground passages removed**: Five underground passages were replaced with direct
+  yellow-to-red zone connections (Radiant Wilds), changing routing and ganking lanes.
 - **Factions**: Caerleon, Lymhurst, Bridgewatch, Martlock, Thetford, Fort Sterling,
   Brecilien
-- **Risk**: Medium — you're flagged only against enemy factions, not all players
-- **Silver yield**: Faction points → valuable cosmetics and gear sold on market
-- **Tip**: Head into enemy faction territory and contest outposts for bonus point gain.
-  *Note*: As of Abyssal Depths, players retain their Faction Flag after Arena and
-  Expeditions — no need to re-flag after instanced content.
+- **Risk**: Medium — flagged only against enemy factions
+- **Silver yield**: Faction Points → valuable cosmetics, mounts, capes sold on market
+- **Tip**: Target Faction Camps for consistent solo-accessible points; coordinate guild
+  for Fortress sieges. Players retain Faction Flag after instanced content (no re-flagging).
 
 #### Open World PvP (Outlands / Mists)
 - **Outlands**: Full-loot, guild-controlled territory. Best rewards, highest risk.
@@ -201,8 +227,9 @@ Win → gain infamy → face stronger teams. Lose → lose infamy → face easie
 | Red (Dangerous) | Full loot PvP | T5–T7 nodes |
 | Black (Outlands) | Full loot PvP | T7–T8 nodes, dense and lucrative |
 
-**Blue/Yellow zone tip**: As of Abyssal Depths, Blue and Yellow zones now have a
-soft IP cap for open-world content — lower-tier gear is competitive here.
+**Blue/Yellow zone tip**: Blue and Yellow zones have a soft IP cap for open-world
+content — lower-tier gear is competitive here. Medium Faction Camps were reduced
+in select regions (Radiant Wilds) — check your map before routing.
 
 #### Biome → Resource Mapping
 | Biome | Primary Resources |
@@ -264,6 +291,7 @@ Goal: [Fame / Silver / PvP / Mix]
 | Blue zone solo dungeon | 700 |
 | Yellow zone dungeon | 800 |
 | The Depths | 800 (non-lethal equivalent) |
+| 1v1 Arena | 900 (soft-capped at 900 IP) |
 | 2v2 Hellgate (non-lethal) | 800 |
 | 2v2 Hellgate (lethal) | 900+ (aim for 1100 to hit soft cap) |
 | Corrupted dungeon (entry) | 900 |
